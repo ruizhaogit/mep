@@ -1,1 +1,1 @@
-# Maximum-Entropy-Regularized-Multi-Goal-Reinforcement-Learning
+# Maximum-Entropy-Regularized-Multi-Goal-RL
