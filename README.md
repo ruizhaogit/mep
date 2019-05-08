@@ -1,10 +1,10 @@
-# Maximum Entropy Regularized Multi-Goal Reinforcement Learning
+# Maximum Entropy-Regularized Multi-Goal Reinforcement Learning
 
-Here is the code for our ICML-2019 paper "Maximum Entropy Regularized Multi-Goal Reinforcement Learning". 
+Here is the code for our ICML-2019 paper "Maximum Entropy-Regularized Multi-Goal Reinforcement Learning". 
 
 The code was developed by Rui Zhao (Siemens AG & Ludwig Maximilian University of Munich). 
 
-For details on Maximum Entropy based Prioritization (MEP), please read the ICML paper.  
+For details on Maximum Entropy-based Prioritization (MEP), please read the ICML paper (forthcoming).  
 
 The code is developed based on OpenAI Baselines (link: https://github.com/openai/baselines).   
 
@@ -45,7 +45,7 @@ Citation of the ICML paper:
 
 ```
 @inproceedings{zhao2019maximum,
-  title={Maximum Entropy Regularized Multi-Goal Reinforcement Learning},
+  title={Maximum Entropy-Regularized Multi-Goal Reinforcement Learning},
   author={Zhao, Rui and Sun, Xudong and Tresp, Volker},
   booktitle={International Conference on Machine Learning},
   year={2019}
