@@ -4,7 +4,7 @@ Here is the code for our ICML-2019 paper "Maximum Entropy-Regularized Multi-Goal
 
 The code was developed by Rui Zhao (Siemens AG & Ludwig Maximilian University of Munich). 
 
-For details on Maximum Entropy-based Prioritization (MEP), please read the ICML paper (link: https://icml.cc/Conferences/2019/AcceptedPapersInitial) (forthcoming). 
+For details on Maximum Entropy-based Prioritization (MEP), please read the ICML paper (link: http://proceedings.mlr.press/v97/zhao19d.html). 
 
 The pre-print version is available on arXiv: https://arxiv.org/abs/1905.08786.
 
