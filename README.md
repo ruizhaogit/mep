@@ -50,6 +50,7 @@ Citation of the ICML paper:
   title={Maximum Entropy-Regularized Multi-Goal Reinforcement Learning},
   author={Zhao, Rui and Sun, Xudong and Tresp, Volker},
   booktitle={International Conference on Machine Learning},
+  pages={7553--7562},
   year={2019}
 }
 ```
